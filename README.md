@@ -19,7 +19,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-This website has a navigation bar on the top right corner, to provide a suitable usable experience. 
+This website has a navigation bar on the top right corner, to provide a suitable user experience. 
 
 [alt text](assets/images/Readme1.jpg)
 [alt text](assets/images/Readme2.jpg)
