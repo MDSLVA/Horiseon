@@ -57,7 +57,7 @@ a {color: #ffffff; text-decoration: none;
     background-color: #0072bb; color: #ffffff;
 }
 
-.content img {max-height: 200px; max-width: fit-content;}
+.content img {max-height: 200px; }
 
 .float-left {float: left; margin-right: 25px;}
 
