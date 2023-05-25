@@ -5,12 +5,7 @@
 
 ## Description
 
-This project was created in order to produce a code base, that follows acessiblity standards and is optimized for search engines. 
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This html and css project was created in order to produce a code base, that follows acessiblity standards and is optimized for search engines. 
 
 
 ## Installation
