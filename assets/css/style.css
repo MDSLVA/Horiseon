@@ -59,9 +59,9 @@ a {color: #ffffff; text-decoration: none;
 
 .content img {max-height: 200px; }
 
-.float-left {float: left; margin-right: 25px;}
+.float-left {float: left; margin-right: 25px; width: auto; height: auto;}
 
-.float-right {float: right; margin-left: 25px;}
+.float-right {float: right; margin-left: 25px; width: auto; height: auto;}
 
 .h2 {margin-bottom: 20px; font-size: 36px;}
 /* <Main/>*/
